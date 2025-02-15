@@ -35,5 +35,4 @@ for (let i = 0; i < 5; i++) {
   ul.appendChild(li);
 }
 
-divWrapper.append(avatarImage, title, subTitle, text, ul);
-document.body.appendChild(divWrapper);
+console.log(ul);
